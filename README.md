@@ -18,3 +18,5 @@ Saya Yosafat (2009929) mengerjakan evaluasi Latihan 2 dalam mata kuliah Desain d
 ### Desain
 
 ## Screenshot
+### C++
+![c++ (1)](https://user-images.githubusercontent.com/77567907/154723536-d7e392f0-1262-4d09-b167-ec98c45540d0.jpg)
