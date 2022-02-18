@@ -16,3 +16,5 @@ Saya Yosafat (2009929) mengerjakan evaluasi Latihan 2 dalam mata kuliah Desain d
 ### Analisis
 
 ### Desain
+
+## Screenshot
